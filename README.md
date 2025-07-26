@@ -68,21 +68,8 @@ pip install -r requirements.txt
 🚀 How to Run
 Option 1: Open in Google Colab
 
-Option 2: Run Locally
-bash
-Copy
-Edit
-git clone https://github.com/your-username/loan-approval-predictor.git
-cd loan-approval-predictor
-jupyter notebook Loan_Approval.ipynb
-📷 Sample Visualizations
-Income vs Loan Approval Rate
 
-Credit History impact
 
-Education-wise approval comparison
-
-📁 See assets/ folder for saved charts
 
 📦 Files in This Repo
 File	Purpose
@@ -90,7 +77,7 @@ Loan_Approval.ipynb	Main notebook with full analysis
 loan_prediction.csv	Input dataset
 requirements.txt	Python dependencies
 README.md	Project overview
-assets/	Charts/images generated from analysis
+
 
 👩‍💻 Author
 Della Cherian
